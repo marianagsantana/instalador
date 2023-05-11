@@ -1,0 +1,15 @@
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\instalador.exe
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\instalador.deps.json
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\instalador.runtimeconfig.json
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\instalador.dll
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\instalador.pdb
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\instalador.csproj.AssemblyReference.cache
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\instalador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\instalador.AssemblyInfoInputs.cache
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\instalador.AssemblyInfo.cs
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\instalador.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\instalador.dll
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\refint\instalador.dll
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\instalador.pdb
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\instalador.genruntimeconfig.cache
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\obj\Debug\net7.0-windows\ref\instalador.dll

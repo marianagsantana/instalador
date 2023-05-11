@@ -1,0 +1,5 @@
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\publish\instalador.exe
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\publish\instalador.dll
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\publish\instalador.deps.json
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\publish\instalador.runtimeconfig.json
+C:\Users\Facu\Documents\3ª FASE\DESKTOP\instalador\bin\Debug\net7.0-windows\publish\instalador.pdb
